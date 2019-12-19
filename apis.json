@@ -1,0 +1,43 @@
+{
+    "name": "TheBeerSpot",
+    "description": "A distinctive website with a focus on all aspects of beer. Our goal is to provide a fun atmosphere for all things related to beer and provide you with the tools to know more about beer. This is a place where enthusiasts of all kinds, homebrewers, the a...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1486-thebeerspot.jpg",
+    "tags": [
+        "foodl",
+        "have api",
+        "recommendations",
+        "services",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/thebeerspot\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TheBeerSpot",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1486-thebeerspot.jpg",
+            "humanURL": "http:\/\/www.thebeerspot.com\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/thebeerspot-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.thebeerspot.com\/api"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/thebeerspot"
+        }
+    ]
+}
